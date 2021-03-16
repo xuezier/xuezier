@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 [![Xuezier github stats](https://github-readme-stats.vercel.app/api?username=xuezier&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=7bbfea)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![image](https://user-images.githubusercontent.com/7692708/111278620-b707c480-8674-11eb-97d1-a04a6f3f4dd5.png)
