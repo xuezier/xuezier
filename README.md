@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 [![Xuezier github stats](https://github-readme-stats.vercel.app/api?username=xuezier&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=7bbfea)](https://github.com/anuraghazra/github-readme-stats)
 
+-->
